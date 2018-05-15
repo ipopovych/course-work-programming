@@ -1,2 +1,2 @@
-# course-work-programming
-My second semester project for programming course at UCU.
+# Court Data UA
+My data analytics project based on Ukrainian state register of court decisions
