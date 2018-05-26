@@ -1,0 +1,4 @@
+https://public.nazk.gov.ua/public_api
+https://opendatabot.com/
+https://declarations.com.ua/api/
+https://blog.modeanalytics.com/python-data-visualization-libraries/
